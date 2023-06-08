@@ -74,7 +74,7 @@ matchbin-assets.s3.amazonaws.com
 springclick-ads.s3.amazonaws.com
 d1zatounuylvwg.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
-dc8xl0ndzn2cb.cloudfront.net #[Snowplow analytics]
+dc8xl0ndzn2cb.cloudfront.net #[Snowplow analytics
 gernewt.info
 ads.goodreads.com
 cdn-gl.imrworldwide.com
@@ -145,7 +145,7 @@ schwab.demdex.net
 timeinc.demdex.net
 geo.qualaroo.com
 collect.tealiumiq.com
-collect-us-east-1.tealiumiq.com #[WebBug]
+collect-us-east-1.tealiumiq.com #[WebBug
 tracking.revimedia.com
 n.targetctracker.com
 trackcmp.net
@@ -168,7 +168,7 @@ dcinfos.abtasty.com
 go.affec.tv
 www.smartredirect.de
 idsync.rlcdn.com
-web-t.9gag.com #[Piwik.Analytics]
+web-t.9gag.com #[Piwik.Analytics
 www.adotube.com
 pixel.adsafeprotected.com
 match.adsrvr.org
@@ -186,7 +186,7 @@ adobe.demdex.net
 condenast.demdex.net
 fairfax.demdex.net
 mtvn.demdex.net
-a.dpmsrv.com #[WebBug]
+a.dpmsrv.com #[WebBug
 px.dynamicyield.com
 beacon.examiner.com
 gonzogrape.gumgum.com
@@ -206,7 +206,7 @@ engine.nectarads.com
 script.opentracker.net
 server1.opentracker.net
 server10.opentracker.net
-log.optimizely.com #[WebBug]
+log.optimizely.com #[WebBug
 3459571470.log.optimizely.com
 ntracking.optimatic.com
 stats.pagefair.com
@@ -431,7 +431,7 @@ s.effectivemeasure.net
 j.flxpxl.com
 matcher.idtargeting.com
 ccs.infospace.com
-www.i.matheranalytics.com]
+www.i.matheranalytics.com
 redirect.com
 www.storygize.net
 d.tailtarget.com
@@ -518,7 +518,7 @@ content.mkt932.com
 contentz.mkt932.com
 contentz.mkt941.com
 track.moreniche.com
-c.mtro.co #[MetroGuild Widget Tracking]
+c.mtro.co #[MetroGuild Widget Tracking
 zdbb.netshelter.net
 mix-test.uts.ngdata.com
 meter-svc.nytimes.com
@@ -528,13 +528,13 @@ pagefair.com
 c.pebblemedia.be
 jadserve.postrelease.com
 static.proximic.com
-di.rlcdn.com #[Marketing Evolution Tracking]
+di.rlcdn.com #[Marketing Evolution Tracking
 mtrx.go.sonobi.com
 cdn.sail-horizon.com
 shareaholic.com
 clickcdn.shareaholic.com
 cdn.siftscience.com
-gsf-cf.softonic.com #[Win32/OpenCandy.C]
+gsf-cf.softonic.com #[Win32/OpenCandy.C
 pixel.sojern.com
 eventlogger.soundcloud.com
 a.teads.tv
@@ -658,7 +658,7 @@ www.assoc-amazon.com
 s3.buysellads.com
 new.cetrk.com
 trk.cetrk.com
-dl.gameplaylabs.com #[Adware:Win32/GamePlayLabs]
+dl.gameplaylabs.com #[Adware:Win32/GamePlayLabs
 ads.jetpackdigital.com
 dl.keywordstrategy.org
 asset.pagefair.com
@@ -1676,7 +1676,7 @@ porntraff.com
 qualityporn.biz
 ads.vporn.com
 ifa.maxpornlive.com
-porn.mtree.com #[Dialer.Moneytree]
+porn.mtree.com #[Dialer.Moneytree
 ifa.pornhublive.com
 aphrodite.porntrack.com
 stats1.porntrack.com
@@ -1685,7 +1685,7 @@ ifa.youpornmate.com
 www.freepornsubmits.com
 banner1.pornhost.com
 webmasters.h2porn.com
-www.secretbehindporn.com #[ScamFraudAlert.Pharmacy]
+www.secretbehindporn.com #[ScamFraudAlert.Pharmacy
 www.thepornsurvey.com
 tgp.pornsponsors.com
 www.pornsponsors.com
@@ -1754,7 +1754,7 @@ logs.sexy-parade.com
 l.socialsexnetwork.net
 www.thesocialsexnetwork.com
 ifa.hardsexmate.com
-cgi.sexlist.com #[Tracking.Cookie]
+cgi.sexlist.com #[Tracking.Cookie
 cgi1.sexlist.com
 enter.sexlist.com
 images.sexlist.com
@@ -2049,12 +2049,12 @@ ifa.xhamstercams.com
 ifa.yobtcams.com
 static.ifa.yobtcams.com
 cam.demdex.net
-www.onesafe-software.com #[ScamFraudAlert.Antispyware]
+www.onesafe-software.com #[ScamFraudAlert.Antispyware
 ard.sexplaycam.com
 flashbanners.static.ard.sexplaycam.com
 banners.camdough.com
-www.freedownloadzone.com #[ScamFraudAlert]
-tgp.adultfriendfinder.com #[cams.com]
+www.freedownloadzone.com #[ScamFraudAlert
+tgp.adultfriendfinder.com #[cams.com
 adserver.cams.com
 banners.cams.com
 promo.cams.com
@@ -2066,15 +2066,15 @@ www.camsoda1.com
 live-cams-0.livejasmin.com
 live-cams-1.livejasmin.com
 counter.cam-content.com
-piwik.cam-content.com #[Piwik.Analytics]
+piwik.cam-content.com #[Piwik.Analytics
 cdnads.cam4.com
 static.ifa.camads.net
 one.cam4ads.com
-www.secretbehindporn.com #[ScamFraudAlert.Pharmacy]
+www.secretbehindporn.com #[ScamFraudAlert.Pharmacy
 www.scambiobanner.tv
 aolcamember.122.2o7.net
 ads.host.camz.com
-offers.cloackp.com #[ScamFraudAlert.Antispyware]
+offers.cloackp.com #[ScamFraudAlert.Antispyware
 promos.camsoda.com
 www.adscampaign.com
 promo.passioncams.com
@@ -2674,4 +2674,3 @@ mx-ebabennews-b.sailthru.com
 alphababes.clickfunnels.com
 ceobabe.clickfunnels.com
 babes-mansion.s3.amazonaws.com
-
